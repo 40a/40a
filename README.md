@@ -3,7 +3,7 @@
 ## How to reach me:
 
 - [twitter](https://twitter.com/oleg40a)
-- [youtube](https://www.youtube.com/@OlegSoroka)
+- [youtube](https://www.youtube.com/playlist?list=PL4vA46bkT2dJSWqHJEWIo3BbXaZERH7cn)
 - [linkedin](https://www.linkedin.com/in/olegsoroka/)
 - [telegram](https://t.me/oleg40a)
 
