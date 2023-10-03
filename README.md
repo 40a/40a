@@ -1,4 +1,4 @@
-### Олег Сорока[]()
+### Oleg Soroka[]()
 
 #### How to reach me:[]()
 
