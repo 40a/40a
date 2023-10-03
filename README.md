@@ -2,10 +2,10 @@
 
 ## How to reach me:
 
-- [twitter](https://twitter.com/oleg40a)
-- [youtube](https://www.youtube.com/playlist?list=PL4vA46bkT2dJSWqHJEWIo3BbXaZERH7cn)
-- [linkedin](https://www.linkedin.com/in/olegsoroka/)
-- [telegram](https://t.me/oleg40a)
+[![telegram](https://img.shields.io/badge/oleg40a-gray?style=social&logo=telegram)](https://t.me/oleg40a)
+[![twitter](https://img.shields.io/badge/oleg40a-gray?style=social&logo=twitter)](https://twitter.com/oleg40a)
+[![youtube](https://img.shields.io/badge/olegsoroka-gray?style=social&logo=youtube)](https://www.youtube.com/playlist?list=PL4vA46bkT2dJSWqHJEWIo3BbXaZERH7cn)
+[![linkedin](https://img.shields.io/badge/olegsoroka-gray?style=social&logo=linkedin)](https://www.linkedin.com/in/olegsoroka/)
 
 <!--
 **40a/40a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
