@@ -1,6 +1,6 @@
-# [Олег Сорока](https://github.com/40a)
+### Олег Сорока[]()
 
-## How to reach me:
+#### How to reach me:[]()
 
 [![telegram](https://img.shields.io/badge/oleg40a-gray?style=plastic&logo=telegram)](https://t.me/oleg40a) 
 [![twitter](https://img.shields.io/badge/oleg40a-gray?style=plastic&logo=twitter)](https://twitter.com/oleg40a) 
